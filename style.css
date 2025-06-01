@@ -56,6 +56,18 @@ a{
 .img:hover {
     animation: scaleImage 0.5s ease-in-out forwards;
   }
+  ul {
+  background: #000000;
+  padding: 20px;
+  border-radius: 20px;
+}
+ul li {
+  background: #2172ff;
+  color: rgb(255, 255, 255);
+  margin: 5px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
   
   @keyframes scaleImage {
     0% {
